@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class precom
+public class percom
 {
   public static void main(String args[])
   {
